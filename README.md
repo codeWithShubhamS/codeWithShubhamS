@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/3o7TKUMG7Tt3OX6NOg/giphy.gif" width="120" alt="AI Assistant Bot" />
 </p>
 
-<div align="center">
 
 
 🤖 AI Assistant: Hello visitor! I'm your AI guide to Shubham's Developer World.

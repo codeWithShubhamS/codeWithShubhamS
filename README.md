@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/hero-banner.png" alt="Shubham Shrivastava Banner" width="100%" />
+    <img src="https://github.com/user-attachments/assets/1560ae51-f6d4-47b3-b9fe-854636822f19" alt="Shubham Shrivastava Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm <span style="color:#2f80ed;">Shubham Shrivastava</span> 👋</h1>

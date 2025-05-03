@@ -11,7 +11,7 @@
 <img alt="Coding" width="500" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80" />
 
 <a href="https://www.linkedin.com/in/shubhams-2021">
-  <img align="left" alt="Shubham's Linkedin" width="80px" height="20px" src="https://img.shields.io/ba5ge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Shubham's Linkedin" width="80px" height="25px" src="https://img.shields.io/ba5ge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:theshubhamshri@gmail.com">

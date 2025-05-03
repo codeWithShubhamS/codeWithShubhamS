@@ -22,7 +22,7 @@
 
 ### ✨ Quick Facts
 
-- 🏢 I'm currently working in **[Extramarks Education India Pvt. Ltd. Plot No- 95B, Sector 136, Noida, Uttar Pradesh 201304.](https://www.extramarks.com/).**
+- 🏢 I'm currently working in **[Extramarks Education India Pvt. Ltd., Plot No- 95B, Sector 136, Noida, Uttar Pradesh 201304.](https://www.extramarks.com/)**
 
 - 🔭 I’m currently working on **[Full Stack App - Organisation Leave Management Portal](https://frontend-task-management-sys.herokuapp.com/).**
 

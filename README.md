@@ -8,17 +8,40 @@
 
 ---
 
-<!-- AI Personal Assistant Simulation Section -->
-<pre align="center">
-🤖 <b>AI Assistant:</b> Hello visitor! I'm your AI guide to Shubham's Developer World. Want to know what he's good at?
+<!-- 🤖 AI Personal Assistant Simulation Section -->
+<h2 align="center">🤖 Meet Shubham's AI Assistant</h2>
 
-🧠 Skills: HTML, CSS, JS, React, Redux, Tailwind, Django, APIs
-🚀 Projects: Leave Management App, Portfolio, Resume Builder
-🛠️ Learning: JavaScript Mastery, Full Stack, AI Frontends
-🎯 Vision: Building future-proof UIs with AI & problem-solving
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKUMG7Tt3OX6NOg/giphy.gif" width="120" alt="AI Assistant Bot" />
+</p>
 
-👨‍💻 Ask me anything → <i>“What is Shubham building now?”</i>
-</pre>
+<div align="center">
+
+```bash
+🤖 AI Assistant: Hello visitor! I'm your AI guide to Shubham's Developer World.
+💬 Want to know what he's great at? Here's a quick snapshot:
+
+🧠 Skills:
+   - HTML, CSS, JavaScript
+   - React, Redux, Tailwind
+   - Django, REST APIs
+
+🚀 Projects:
+   - Leave Management App
+   - Personal Portfolio
+   - Smart Resume Builder
+
+🛠️ Learning Now:
+   - JavaScript Mastery
+   - Full Stack with Django & Node.js
+   - Building AI-Powered UIs
+
+🎯 Vision:
+   - Designing future-proof UIs with AI + Problem-Solving
+
+💡 Ask me:
+   “What is Shubham building now?”
+
 
 ---
 

@@ -1,99 +1,114 @@
-<!-- Header Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1560ae51-f6d4-47b3-b9fe-854636822f19" alt="Shubham Shrivastava Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/hero-banner.png" alt="Shubham Shrivastava Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
-<h3 align="center">🚀 Frontend Developer | Problem Solver | AI Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hey there! I'm <span style="color:#2f80ed;">Shubham Shrivastava</span> 👋</h1>
+<h3 align="center">🌟 Frontend Developer | UI Craftsman | AI-Augmented Engineer | Future-Focused Learner</h3>
+
+---
+
+<!-- AI Personal Assistant Simulation Section -->
+<pre align="center">
+🤖 <b>AI Assistant:</b> Hello visitor! I'm your AI guide to Shubham's Developer World. Want to know what he's good at?
+
+🧠 Skills: HTML, CSS, JS, React, Redux, Tailwind, Django, APIs
+🚀 Projects: Leave Management App, Portfolio, Resume Builder
+🛠️ Learning: JavaScript Mastery, Full Stack, AI Frontends
+🎯 Vision: Building future-proof UIs with AI & problem-solving
+
+👨‍💻 Ask me anything → <i>“What is Shubham building now?”</i>
+</pre>
+
+---
+
+### 🔮 Who is Shubham?
+
+- 👨‍💻 Frontend Engineer @ **Extramarks** | Ex-Mechanical Engineer 🛠
+- 📈 Turning designs into responsive, interactive UIs  
+- 🧠 Transitioning to **Full Stack AI-integrated development**
+- 🔍 Currently learning: `JavaScript`, `Redux Toolkit`, `Django`, `TypeScript`, `DSA`
+- 🤖 Believer in AI + Dev synergy (ChatGPT, Copilot, Cursor)
+
+---
+
+### 🚀 Live Projects Showcase
+
+| Project | Tech Stack | Demo |
+|--------|------------|------|
+| **🌐 Portfolio Website** | React, Tailwind | [🔗 Visit](https://newportfolio-1.jstackshubham.repl.co/) |
+| **📅 Leave Management App** | React + Django REST | [🔗 Live](https://frontend-task-management-sys.herokuapp.com/) |
+| **📄 Resume** | PDF, Google Drive | [📂 View Resume](https://drive.google.com/file/d/1WPw4nnkkkTHsyxNySom5YrqJvAqu9rBG/view?usp=share_link) |
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,django,python,nodejs,mongodb,mysql,git,github,postman,vscode,figma,linux" />
+</p>
+
+---
+
+### 🧑‍💻 AI-Enhanced Developer Tools I Use
+
+| AI Tool        | Purpose                              |
+|----------------|--------------------------------------|
+| 🤖 ChatGPT      | Debugging, content generation, logic |
+| ✨ GitHub Copilot | Autocomplete & intelligent coding    |
+| 🧠 Cursor IDE    | AI-powered development & code refactor |
+| 🔍 TabNine      | Fast autocomplete with ML             |
+| 🛠️ Grammarly     | For clean, clear, error-free writing  |
+
+---
+
+### 📈 GitHub & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webcodeshubham&show_icons=true&theme=tokyonight&rank_icon=github" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcodeshubham&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcodeshubham&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=webcodeshubham&theme=algolia&column=4" width="47%" />
+</p>
+
+---
+
+### 🧗 What’s Next for Me?
+
+- 🔬 Deep dive into **AI-Frontend Fusion**  
+- 💻 Mastering **JavaScript + TypeScript**  
+- 🧩 Building reusable **React component libraries**  
+- 🎯 Preparing for **top product company interviews**  
+- 🧱 Creating my **AI-enhanced portfolio system** with auto-summary and voice UI
+
+---
+
+### 📬 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shubhams-2021" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
   <a href="mailto:theshubhamshri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=webcodeshubham&label=Visitors&color=blue&style=flat" alt="visitor badge"/>
-</p>
-
----
-
-### 🌟 About Me
-
-- 🧠 Self-taught developer with a background in **Mechanical Engineering**  
-- 🔭 Currently working as a **Frontend Engineer at Extramarks**  
-- 🌱 Learning **React.js, Redux Toolkit, TypeScript, Django, DSA**  
-- 💡 Building a **Full Stack Leave Management System**  
-- 🎯 Goal: Become a Master Frontend Developer & dive into AI-powered frontends  
-- 💬 Ask me about: HTML, CSS, JavaScript, React, Redux, Tailwind, APIs  
-- 📫 Reach me at: `theshubhamshri@gmail.com`  
-- 🏆 Fun Fact: _Code is my canvas. UI is my art._ 🎨
-
----
-
-### 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,bootstrap,python,django,git,github,nodejs,mysql,mongodb,vscode,figma,postman" />
-</p>
-
----
-
-### 💼 Projects
-
-| Project | Description | Links |
-|--------|-------------|--------|
-| 🌐 **[My Portfolio](https://newportfolio-1.jstackshubham.repl.co/)** | Personal portfolio showcasing my frontend skills | Live Link |
-| 🗓 **Leave Management App** | Full Stack App (React + Django) to manage leaves | [Live App](https://frontend-task-management-sys.herokuapp.com/) |
-| 📄 **Resume** | Updated CV with latest work & skills | [View Resume](https://drive.google.com/file/d/1WPw4nnkkkTHsyxNySom5YrqJvAqu9rBG/view?usp=share_link) |
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webcodeshubham&show_icons=true&theme=github_dark&rank_icon=github" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcodeshubham&theme=github-dark" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcodeshubham&layout=compact&theme=github_dark" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=webcodeshubham&theme=onestar&column=4" width="47%" />
-</p>
-
----
-
-### 🧠 Currently Learning
-
-- ✅ Mastering: JavaScript (Deep Dive), React Best Practices  
-- 🔥 Advanced Topics: Redux Toolkit, TypeScript, API Design  
-- 🧩 Exploring: Django + REST APIs, AI Tools for Frontend, DSA with JavaScript  
-- 📚 Resources: [JavaScript.info](https://javascript.info), [Full Stack Open](https://fullstackopen.com), [Frontend Interview Prep](https://frontendinterviewhandbook.com/)
-
----
-
-### 🔗 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/shubhams-2021" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" />
-  </a>
-  <a href="mailto:theshubhamshri@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" />
+    <img src="https://img.icons8.com/color/48/gmail.png" width="40" />
   </a>
   <a href="https://webcodeshubham.github.io" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/portfolio.png" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" />
   </a>
 </p>
 
 ---
 
-### 💡 Quote I Live By
+### 💬 Final Words from My AI Assistant
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> "Shubham isn’t just writing code—he’s building the future of UIs with AI."
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Shubham Shrivastava</strong>
+  <b>Made with ❤️ + 🤖 by Shubham Shrivastava</b><br />
+  <sub>Last updated: 2025 | Powered by human creativity & AI superpowers</sub>
 </p>

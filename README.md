@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there! I'm <span style="color:#2f80ed;">Shubham Shrivastava</span> 👋</h1>
-<h3 align="center">🌟 Frontend Developer | UI Craftsman | AI-Augmented Engineer | Future-Focused Learner</h3>
+<h3 align="center">🌟 Software Developer | UI Craftsman | AI-Augmented Engineer | Future-Focused Learner</h3>
 
 ---
 
@@ -37,7 +37,7 @@
    - Building AI-Powered UIs
 
 🎯 Vision:
-   - Designing future-proof UIs with AI + Problem-Solving
+   - Designing future-proof Applicatons with AI + Problem-Solving
 
 💡 Ask me:
    “What is Shubham building now?”
@@ -46,7 +46,7 @@
 
 ### 🔮 Who is Shubham?
 
-- 👨‍💻 Frontend Engineer @ **Extramarks** | Ex-Mechanical Engineer 🛠
+- 👨‍💻 Software Developer @ **Extramarks** | Ex-Mechanical Engineer 🛠
 - 📈 Turning designs into responsive, interactive UIs  
 - 🧠 Transitioning to **Full Stack AI-integrated development**
 - 🔍 Currently learning: `JavaScript`, `Redux Toolkit`, `Django`, `TypeScript`, `DSA`
@@ -100,7 +100,7 @@
 
 ### 🧗 What’s Next for Me?
 
-- 🔬 Deep dive into **AI-Frontend Fusion**  
+- 🔬 Deep dive into **AI-Software Fusion**  
 - 💻 Mastering **JavaScript + TypeScript**  
 - 🧩 Building reusable **React component libraries**  
 - 🎯 Preparing for **top product company interviews**  
@@ -126,7 +126,7 @@
 
 ### 💬 Final Words from My AI Assistant
 
-> "Shubham isn’t just writing code—he’s building the future of UIs with AI."
+> "Shubham isn’t just writing code—he’s building the future of Software Development with AI."
 
 ---
 

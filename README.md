@@ -15,7 +15,7 @@
 </a>
 
 <a href="mailto:theshubhamshri@gmail.com">
-  <img align="left" alt="Shubham's Email" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Shubham's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />

@@ -17,7 +17,7 @@
 
 <div align="center">
 
-```bash
+
 🤖 AI Assistant: Hello visitor! I'm your AI guide to Shubham's Developer World.
 💬 Want to know what he's great at? Here's a quick snapshot:
 
@@ -41,7 +41,6 @@
 
 💡 Ask me:
    “What is Shubham building now?”
-
 
 ---
 

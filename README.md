@@ -11,9 +11,7 @@
 <!-- 🤖 AI Personal Assistant Simulation Section -->
 <h2 align="center">🤖 Meet Shubham's AI Assistant</h2>
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/b35d8f89-cdf1-442e-9ae4-5a566247e203" alt="Shubham Shrivastava Banner" width="30%" />
-</p>
+<img src="https://github.com/user-attachments/assets/b35d8f89-cdf1-442e-9ae4-5a566247e203" alt="Shubham Shrivastava Banner" width="30%" />
 
 
 🤖 AI Assistant: Hello visitor! I'm your AI guide to Shubham's Developer World.

@@ -12,9 +12,8 @@
 <h2 align="center">🤖 Meet Shubham's AI Assistant</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMG7Tt3OX6NOg/giphy.gif" width="120" alt="AI Assistant Bot" />
+![gabriele-malaspina-CjWsslYVnPI-unsplash](https://github.com/user-attachments/assets/b35d8f89-cdf1-442e-9ae4-5a566247e203)
 </p>
-
 
 
 🤖 AI Assistant: Hello visitor! I'm your AI guide to Shubham's Developer World.

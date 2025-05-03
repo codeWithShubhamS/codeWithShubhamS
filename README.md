@@ -1,4 +1,4 @@
-![boitumelo-phetla-4x09JNBx554-unsplash](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
+![fernando-hernandez-lVuV7AcfOrY-unsplash](https://github.com/user-attachments/assets/1560ae51-f6d4-47b3-b9fe-854636822f19)
 
 <h1 align="center">Hey there! 👋, I'm Shubham Shrivastava 👨‍💻🌱</h1>
 <h3 align="center">Passionate Software Developer 👨‍💻</h3>

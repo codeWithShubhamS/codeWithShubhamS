@@ -86,13 +86,18 @@
 
 ### 📈 GitHub & Activity
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=webcodeshubham&show_icons=true&theme=tokyonight&rank_icon=github" width="47%" />
+</p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcodeshubham&theme=tokyonight" width="47%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcodeshubham&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=webcodeshubham&theme=algolia&column=4" width="47%" />
 </p>
 
